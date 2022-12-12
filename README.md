@@ -2,4 +2,4 @@
 ## #11 - Python — Flight Data Generation
 
 You can find the complete walkthrough on Medium.com:
-ENTER LINK
+https://medium.com/@codeanddogs/python-flight-data-generation-a1180df43ab4
